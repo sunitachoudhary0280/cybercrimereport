@@ -52,17 +52,21 @@ Open a web browser and go to http://localhost:5000 to access the application.
 
 
 Usage
+
 Enter your cybercrime report in the text box or upload a report file.
 Click on the "Analyze Report" button.
 The system will analyze the report, and the results will be displayed on the screen.
+
 Project Structure
 app.py: The Flask backend script that handles requests and performs NLP analysis.
 index.html: The frontend file with HTML and JavaScript for the user interface.
 requirements.txt: Lists the necessary dependencies to run the application.
+
 Future Enhancements
 Advanced NLP Models: Integrate more sophisticated models for deeper analysis.
 Additional File Types: Support for more file types and formats.
 Detailed Classification: Provide a more detailed analysis report with visualizations.
+
 License
 This project is licensed under the MIT License.
 
