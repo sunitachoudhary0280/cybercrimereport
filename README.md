@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/sunitachoudhary0280/cybercrime-report-analysis.git
+git clone https://github.com/sunitachoudhary0280/cybercrimereport.git
 cd cybercrime-report-analysis
 Set up the virtual environment:
 
